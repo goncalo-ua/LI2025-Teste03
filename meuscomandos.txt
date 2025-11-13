@@ -1,0 +1,16 @@
+  363  cd "/Users/goncalomarques/Desktop/algoritmia e programação/preparação teste/ficha3/" && gcc treino1.c -o treino1 && "/Users/goncalomarques/Desktop/algoritmia e programação/preparação teste/ficha3/"treino1
+  364  cd "/Users/goncalomarques/Desktop/algoritmia e programação/preparação teste/ficha3/" && gcc treino2.c -o treino2 && "/Users/goncalomarques/Desktop/algoritmia e programação/preparação teste/ficha3/"treino2
+  365  ls
+  366  cd Desktop
+  367  ls
+  368  cd labs\ de\ inf
+  369  git pull
+  370  ls
+  371  cd
+  372  ls
+  373  cd Desktop
+  374  cd teste\ labs\ inf
+  375  git pull
+  376  ls
+  377  cd LI2025-Teste03
+  378  git pull
